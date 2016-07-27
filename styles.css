@@ -1,0 +1,26 @@
+h1 {
+    font-weight: bold;
+    text-align: center;
+}
+
+p {
+    color: purple;
+}
+
+#pass {
+        text-align: center;
+        margin: auto;
+        border-radius: 30px;
+        padding: 10px;
+        font-family: "Comic Sans MS";
+}
+
+button {
+    padding: 20px;
+    border-radius: 20px;
+    font-size: 30px;
+}
+
+body {
+    text-align: center;
+}
